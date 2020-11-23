@@ -27,6 +27,10 @@ To use the JetBrainsMono font properly you should refrain from using the `font-w
 * `JetBrainsMono-ExtraBold`
 * `JetBrainsMono-ExtraBold-Italic`
 
+To avoid compatability issues you should add a fallback to the default system monospace font in case the user's browser cannot load the font. This is done by adding a trailing comma to the name of the webfont followed by the word 'monospace'. An example of this would be `font-family: 'JetBrainsMono-Regular', monospace;`.
+
+In the example above you can see that the webfont name is enclosed in single quotes, although not required, it is recommended to use these single quotes for fonts which are not by default enabled in CSS.
+
 ## License
 
 As per the license of the JetBrainsMono font itself this project is licensed under the `Apache License 2.0` as an extension of the original project. 
