@@ -1,3 +1,5 @@
+[![](https://data.jsdelivr.com/v1/package/gh/imeuropa/JetBrainsMono-Webfont/badge)](https://www.jsdelivr.com/package/gh/imeuropa/JetBrainsMono-Webfont)
+
 # JetBrainsMono-Webfont
 The JetBrainsMono font imported and ready to use in one CSS document using @font-face
 
