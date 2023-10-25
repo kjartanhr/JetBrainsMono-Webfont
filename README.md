@@ -1,5 +1,7 @@
 [![](https://data.jsdelivr.com/v1/package/gh/imeuropa/JetBrainsMono-Webfont/badge)](https://www.jsdelivr.com/package/gh/imeuropa/JetBrainsMono-Webfont)
 
+> ⚠️ This project was created as a response to Google Font's lack of support for JetBrains Mono. Now that Google Fonts supports this specimen, it is recommended to [use it from there](https://fonts.google.com/specimen/JetBrains+Mono) instead.
+
 # JetBrainsMono-Webfont
 The JetBrainsMono font imported and ready to use in one CSS document using @font-face
 
