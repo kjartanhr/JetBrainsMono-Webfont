@@ -9,7 +9,7 @@ Simply download the repository as a .ZIP file and drop the `JetBrainsMono` folde
 
 Alternatively you can load the CSS via the jsdelivr content delivery network by simply pasting this code snippet into the `<head>` section of your project:
 
-`<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/gh/imeuropa/JetBrainsMono-Webfont@main/JetBrainsMono/JetBrainsMono.css">`
+`<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/gh/kjartanhr/JetBrainsMono-Webfont@main/JetBrainsMono/JetBrainsMono.css">`
 
 ## Use the font properly
 
